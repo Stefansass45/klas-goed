@@ -1,0 +1,14 @@
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\bin\Debug\net8.0\prjDihtionary.exe
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\bin\Debug\net8.0\prjDihtionary.deps.json
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\bin\Debug\net8.0\prjDihtionary.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\bin\Debug\net8.0\prjDihtionary.dll
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\bin\Debug\net8.0\prjDihtionary.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\obj\Debug\net8.0\prjDihtionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\obj\Debug\net8.0\prjDihtionary.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\obj\Debug\net8.0\prjDihtionary.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\obj\Debug\net8.0\prjDihtionary.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\obj\Debug\net8.0\prjDihtionary.dll
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\obj\Debug\net8.0\refint\prjDihtionary.dll
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\obj\Debug\net8.0\prjDihtionary.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\obj\Debug\net8.0\prjDihtionary.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\Class\3rd year vs\prjDihtionary\prjDihtionary\obj\Debug\net8.0\ref\prjDihtionary.dll

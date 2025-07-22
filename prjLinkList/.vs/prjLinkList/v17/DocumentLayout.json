@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\prjLinkList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4586A032-D2E6-4204-A917-F46E75E8C972}|prjLinkList\\prjLinkList.csproj|c:\\users\\stefa\\onedrive\\desktop\\class\\3rd year vs\\prjlinklist\\prjlinklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4586A032-D2E6-4204-A917-F46E75E8C972}|prjLinkList\\prjLinkList.csproj|solutionrelative:prjlinklist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4586A032-D2E6-4204-A917-F46E75E8C972}|prjLinkList\\prjLinkList.csproj|c:\\users\\stefa\\onedrive\\desktop\\class\\3rd year vs\\prjlinklist\\prjlinklist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4586A032-D2E6-4204-A917-F46E75E8C972}|prjLinkList\\prjLinkList.csproj|solutionrelative:prjlinklist\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\prjLinkList\\prjLinkList\\Node.cs",
+              "RelativeDocumentMoniker": "prjLinkList\\Node.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\prjLinkList\\prjLinkList\\Node.cs",
+              "RelativeToolTip": "prjLinkList\\Node.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:29:14.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\prjLinkList\\prjLinkList\\Program.cs",
+              "RelativeDocumentMoniker": "prjLinkList\\Program.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\prjLinkList\\prjLinkList\\Program.cs",
+              "RelativeToolTip": "prjLinkList\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:28:42.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
