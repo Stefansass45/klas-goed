@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prjLinkList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c253736e17167ca44e19540a2ea6d85a6454b770")]
 [assembly: System.Reflection.AssemblyProductAttribute("prjLinkList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prjLinkList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

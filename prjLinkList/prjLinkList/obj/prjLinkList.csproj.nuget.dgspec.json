@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\prjLinkList\\prjLinkList\\prjLinkList.csproj": {}
+    "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjLinkList\\prjLinkList\\prjLinkList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\prjLinkList\\prjLinkList\\prjLinkList.csproj": {
+    "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjLinkList\\prjLinkList\\prjLinkList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\prjLinkList\\prjLinkList\\prjLinkList.csproj",
+        "projectUniqueName": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjLinkList\\prjLinkList\\prjLinkList.csproj",
         "projectName": "prjLinkList",
-        "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\prjLinkList\\prjLinkList\\prjLinkList.csproj",
+        "projectPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjLinkList\\prjLinkList\\prjLinkList.csproj",
         "packagesPath": "C:\\Users\\stefa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\3rd year vs\\prjLinkList\\prjLinkList\\obj\\",
+        "outputPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjLinkList\\prjLinkList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

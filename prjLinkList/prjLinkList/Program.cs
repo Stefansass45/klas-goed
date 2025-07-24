@@ -23,10 +23,19 @@
             }
             return count;
         }
-        // Find node here please. (im doing this alone)
+        // Find node here.
         public static Node FindNode(int vlaue, Node Head)
-        {
-
+        { 
+            Node current = Head;
+            while (current != null)
+            {
+                if (current.value == vlaue)
+                {
+                    return current;
+                }
+                current = current.next;
+            }
+            return null;
         }
     }
 }
