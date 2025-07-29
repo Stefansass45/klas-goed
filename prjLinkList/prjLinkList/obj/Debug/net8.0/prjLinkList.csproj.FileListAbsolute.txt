@@ -1,0 +1,15 @@
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\bin\Debug\net8.0\prjLinkList.exe
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\bin\Debug\net8.0\prjLinkList.deps.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\bin\Debug\net8.0\prjLinkList.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\bin\Debug\net8.0\prjLinkList.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\bin\Debug\net8.0\prjLinkList.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\obj\Debug\net8.0\prjLinkList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\obj\Debug\net8.0\prjLinkList.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\obj\Debug\net8.0\prjLinkList.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\obj\Debug\net8.0\prjLinkList.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\obj\Debug\net8.0\prjLinkList.sourcelink.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\obj\Debug\net8.0\prjLinkList.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\obj\Debug\net8.0\refint\prjLinkList.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\obj\Debug\net8.0\prjLinkList.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\obj\Debug\net8.0\prjLinkList.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjLinkList\prjLinkList\obj\Debug\net8.0\ref\prjLinkList.dll

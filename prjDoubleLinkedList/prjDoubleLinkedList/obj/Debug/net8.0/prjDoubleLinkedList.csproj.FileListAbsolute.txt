@@ -1,0 +1,15 @@
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\bin\Debug\net8.0\prjDoubleLinkedList.exe
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\bin\Debug\net8.0\prjDoubleLinkedList.deps.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\bin\Debug\net8.0\prjDoubleLinkedList.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\bin\Debug\net8.0\prjDoubleLinkedList.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\bin\Debug\net8.0\prjDoubleLinkedList.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.sourcelink.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\refint\prjDoubleLinkedList.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\prjDoubleLinkedList.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjDoubleLinkedList\prjDoubleLinkedList\obj\Debug\net8.0\ref\prjDoubleLinkedList.dll
