@@ -1,0 +1,15 @@
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\bin\Debug\net8.0\prjHashSet.exe
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\bin\Debug\net8.0\prjHashSet.deps.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\bin\Debug\net8.0\prjHashSet.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\bin\Debug\net8.0\prjHashSet.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\bin\Debug\net8.0\prjHashSet.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\obj\Debug\net8.0\prjHashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\obj\Debug\net8.0\prjHashSet.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\obj\Debug\net8.0\prjHashSet.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\obj\Debug\net8.0\prjHashSet.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\obj\Debug\net8.0\prjHashSet.sourcelink.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\obj\Debug\net8.0\prjHashSet.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\obj\Debug\net8.0\refint\prjHashSet.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\obj\Debug\net8.0\prjHashSet.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\obj\Debug\net8.0\prjHashSet.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjHashSet\prjHashSet\obj\Debug\net8.0\ref\prjHashSet.dll
