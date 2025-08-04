@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjQueues\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F7F417-BA76-44B7-B3D1-7F812CAA0CB0}|prjPriorityLinkedListQueue\\prjPriorityLinkedListQueue.csproj|c:\\users\\stefa\\onedrive\\desktop\\class\\will\\klas-goed\\prjqueues\\prjprioritylinkedlistqueue\\qeueues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F7F417-BA76-44B7-B3D1-7F812CAA0CB0}|prjPriorityLinkedListQueue\\prjPriorityLinkedListQueue.csproj|solutionrelative:prjprioritylinkedlistqueue\\qeueues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F7F417-BA76-44B7-B3D1-7F812CAA0CB0}|prjPriorityLinkedListQueue\\prjPriorityLinkedListQueue.csproj|c:\\users\\stefa\\onedrive\\desktop\\class\\will\\klas-goed\\prjqueues\\prjprioritylinkedlistqueue\\qpnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F7F417-BA76-44B7-B3D1-7F812CAA0CB0}|prjPriorityLinkedListQueue\\prjPriorityLinkedListQueue.csproj|solutionrelative:prjprioritylinkedlistqueue\\qpnode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1F7F417-BA76-44B7-B3D1-7F812CAA0CB0}|prjPriorityLinkedListQueue\\prjPriorityLinkedListQueue.csproj|c:\\users\\stefa\\onedrive\\desktop\\class\\will\\klas-goed\\prjqueues\\prjprioritylinkedlistqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1F7F417-BA76-44B7-B3D1-7F812CAA0CB0}|prjPriorityLinkedListQueue\\prjPriorityLinkedListQueue.csproj|solutionrelative:prjprioritylinkedlistqueue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A97399C-ECEF-43CD-95B7-D9F143C4EA78}|LinkedListQueues\\LinkedListQueues.csproj|c:\\users\\stefa\\onedrive\\desktop\\class\\will\\klas-goed\\prjqueues\\linkedlistqueues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A97399C-ECEF-43CD-95B7-D9F143C4EA78}|LinkedListQueues\\LinkedListQueues.csproj|solutionrelative:linkedlistqueues\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A97399C-ECEF-43CD-95B7-D9F143C4EA78}|LinkedListQueues\\LinkedListQueues.csproj|c:\\users\\stefa\\onedrive\\desktop\\class\\will\\klas-goed\\prjqueues\\linkedlistqueues\\queues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A97399C-ECEF-43CD-95B7-D9F143C4EA78}|LinkedListQueues\\LinkedListQueues.csproj|solutionrelative:linkedlistqueues\\queues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Qeueues.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjQueues\\prjPriorityLinkedListQueue\\Qeueues.cs",
+              "RelativeDocumentMoniker": "prjPriorityLinkedListQueue\\Qeueues.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjQueues\\prjPriorityLinkedListQueue\\Qeueues.cs",
+              "RelativeToolTip": "prjPriorityLinkedListQueue\\Qeueues.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:32:27.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QPNode.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjQueues\\prjPriorityLinkedListQueue\\QPNode.cs",
+              "RelativeDocumentMoniker": "prjPriorityLinkedListQueue\\QPNode.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjQueues\\prjPriorityLinkedListQueue\\QPNode.cs",
+              "RelativeToolTip": "prjPriorityLinkedListQueue\\QPNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:30:05.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjQueues\\prjPriorityLinkedListQueue\\Program.cs",
+              "RelativeDocumentMoniker": "prjPriorityLinkedListQueue\\Program.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjQueues\\prjPriorityLinkedListQueue\\Program.cs",
+              "RelativeToolTip": "prjPriorityLinkedListQueue\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:29:20.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjQueues\\LinkedListQueues\\Program.cs",
+              "RelativeDocumentMoniker": "LinkedListQueues\\Program.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjQueues\\LinkedListQueues\\Program.cs",
+              "RelativeToolTip": "LinkedListQueues\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:04:00.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Queues.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjQueues\\LinkedListQueues\\Queues.cs",
+              "RelativeDocumentMoniker": "LinkedListQueues\\Queues.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjQueues\\LinkedListQueues\\Queues.cs",
+              "RelativeToolTip": "LinkedListQueues\\Queues.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T08:48:42Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

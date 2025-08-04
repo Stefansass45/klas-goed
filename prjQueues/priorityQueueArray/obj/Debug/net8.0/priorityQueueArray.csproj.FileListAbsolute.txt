@@ -1,0 +1,15 @@
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\bin\Debug\net8.0\priorityQueueArray.exe
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\bin\Debug\net8.0\priorityQueueArray.deps.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\bin\Debug\net8.0\priorityQueueArray.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\bin\Debug\net8.0\priorityQueueArray.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\bin\Debug\net8.0\priorityQueueArray.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\obj\Debug\net8.0\priorityQueueArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\obj\Debug\net8.0\priorityQueueArray.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\obj\Debug\net8.0\priorityQueueArray.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\obj\Debug\net8.0\priorityQueueArray.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\obj\Debug\net8.0\priorityQueueArray.sourcelink.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\obj\Debug\net8.0\priorityQueueArray.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\obj\Debug\net8.0\refint\priorityQueueArray.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\obj\Debug\net8.0\priorityQueueArray.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\obj\Debug\net8.0\priorityQueueArray.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\priorityQueueArray\obj\Debug\net8.0\ref\priorityQueueArray.dll

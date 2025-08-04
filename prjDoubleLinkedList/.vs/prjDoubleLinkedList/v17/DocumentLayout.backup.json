@@ -22,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjDoubleLinkedList\\prjDoubleLinkedList\\Program.cs",
+              "RelativeDocumentMoniker": "prjDoubleLinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjDoubleLinkedList\\prjDoubleLinkedList\\Program.cs",
+              "RelativeToolTip": "prjDoubleLinkedList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T08:49:11.057Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -38,7 +51,8 @@
               "RelativeToolTip": "prjDoubleLinkedList\\Blob.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T09:32:26.963Z"
+              "WhenOpened": "2025-07-24T09:32:26.963Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -48,21 +62,9 @@
               "RelativeDocumentMoniker": "prjDoubleLinkedList\\Node.cs",
               "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjDoubleLinkedList\\prjDoubleLinkedList\\Node.cs",
               "RelativeToolTip": "prjDoubleLinkedList\\Node.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T09:29:43.634Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjDoubleLinkedList\\prjDoubleLinkedList\\Program.cs",
-              "RelativeDocumentMoniker": "prjDoubleLinkedList\\Program.cs",
-              "ToolTip": "C:\\Users\\stefa\\OneDrive\\Desktop\\Class\\WILL\\klas-goed\\prjDoubleLinkedList\\prjDoubleLinkedList\\Program.cs",
-              "RelativeToolTip": "prjDoubleLinkedList\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAkwEEAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T09:29:31.382Z",
+              "WhenOpened": "2025-07-24T09:29:43.634Z",
               "EditorCaption": ""
             }
           ]

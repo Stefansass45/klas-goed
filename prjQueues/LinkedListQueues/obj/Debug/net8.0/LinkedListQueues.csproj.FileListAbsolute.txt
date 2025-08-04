@@ -1,0 +1,15 @@
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\bin\Debug\net8.0\LinkedListQueues.exe
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\bin\Debug\net8.0\LinkedListQueues.deps.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\bin\Debug\net8.0\LinkedListQueues.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\bin\Debug\net8.0\LinkedListQueues.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\bin\Debug\net8.0\LinkedListQueues.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\obj\Debug\net8.0\LinkedListQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\obj\Debug\net8.0\LinkedListQueues.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\obj\Debug\net8.0\LinkedListQueues.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\obj\Debug\net8.0\LinkedListQueues.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\obj\Debug\net8.0\LinkedListQueues.sourcelink.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\obj\Debug\net8.0\LinkedListQueues.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\obj\Debug\net8.0\refint\LinkedListQueues.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\obj\Debug\net8.0\LinkedListQueues.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\obj\Debug\net8.0\LinkedListQueues.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\LinkedListQueues\obj\Debug\net8.0\ref\LinkedListQueues.dll

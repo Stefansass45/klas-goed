@@ -1,0 +1,15 @@
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\bin\Debug\net8.0\GenericQueue.exe
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\bin\Debug\net8.0\GenericQueue.deps.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\bin\Debug\net8.0\GenericQueue.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\bin\Debug\net8.0\GenericQueue.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\bin\Debug\net8.0\GenericQueue.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\obj\Debug\net8.0\GenericQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\obj\Debug\net8.0\GenericQueue.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\obj\Debug\net8.0\GenericQueue.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\obj\Debug\net8.0\GenericQueue.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\obj\Debug\net8.0\GenericQueue.sourcelink.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\obj\Debug\net8.0\GenericQueue.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\obj\Debug\net8.0\refint\GenericQueue.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\obj\Debug\net8.0\GenericQueue.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\obj\Debug\net8.0\GenericQueue.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjQueues\GenericQueue\obj\Debug\net8.0\ref\GenericQueue.dll
