@@ -1,0 +1,15 @@
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\bin\Debug\net8.0\prjTreeExample.exe
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\bin\Debug\net8.0\prjTreeExample.deps.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\bin\Debug\net8.0\prjTreeExample.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\bin\Debug\net8.0\prjTreeExample.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\bin\Debug\net8.0\prjTreeExample.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\obj\Debug\net8.0\prjTreeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\obj\Debug\net8.0\prjTreeExample.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\obj\Debug\net8.0\prjTreeExample.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\obj\Debug\net8.0\prjTreeExample.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\obj\Debug\net8.0\prjTreeExample.sourcelink.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\obj\Debug\net8.0\prjTreeExample.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\obj\Debug\net8.0\refint\prjTreeExample.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\obj\Debug\net8.0\prjTreeExample.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\obj\Debug\net8.0\prjTreeExample.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjTreeExample\prjTreeExample\obj\Debug\net8.0\ref\prjTreeExample.dll
