@@ -1,0 +1,15 @@
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\bin\Debug\net8.0\TreeExample2.exe
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\bin\Debug\net8.0\TreeExample2.deps.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\bin\Debug\net8.0\TreeExample2.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\bin\Debug\net8.0\TreeExample2.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\bin\Debug\net8.0\TreeExample2.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\obj\Debug\net8.0\TreeExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\obj\Debug\net8.0\TreeExample2.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\obj\Debug\net8.0\TreeExample2.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\obj\Debug\net8.0\TreeExample2.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\obj\Debug\net8.0\TreeExample2.sourcelink.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\obj\Debug\net8.0\TreeExample2.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\obj\Debug\net8.0\refint\TreeExample2.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\obj\Debug\net8.0\TreeExample2.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\obj\Debug\net8.0\TreeExample2.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\TreeExample2\TreeExample2\obj\Debug\net8.0\ref\TreeExample2.dll

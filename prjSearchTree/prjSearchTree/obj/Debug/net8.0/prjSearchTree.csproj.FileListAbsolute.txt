@@ -1,0 +1,15 @@
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\bin\Debug\net8.0\prjSearchTree.exe
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\bin\Debug\net8.0\prjSearchTree.deps.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\bin\Debug\net8.0\prjSearchTree.runtimeconfig.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\bin\Debug\net8.0\prjSearchTree.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\bin\Debug\net8.0\prjSearchTree.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\obj\Debug\net8.0\prjSearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\obj\Debug\net8.0\prjSearchTree.AssemblyInfoInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\obj\Debug\net8.0\prjSearchTree.AssemblyInfo.cs
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\obj\Debug\net8.0\prjSearchTree.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\obj\Debug\net8.0\prjSearchTree.sourcelink.json
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\obj\Debug\net8.0\prjSearchTree.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\obj\Debug\net8.0\refint\prjSearchTree.dll
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\obj\Debug\net8.0\prjSearchTree.pdb
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\obj\Debug\net8.0\prjSearchTree.genruntimeconfig.cache
+C:\Users\stefa\OneDrive\Desktop\Class\WILL\klas-goed\prjSearchTree\prjSearchTree\obj\Debug\net8.0\ref\prjSearchTree.dll

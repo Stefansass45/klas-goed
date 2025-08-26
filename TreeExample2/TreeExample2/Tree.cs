@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace prjTreeExample
+namespace TreeExample2
 {
-    public class Tree<T>
+    class Tree<T>
     {
         public TreeNode<T> Root { get; set; }
         public void PrintTree(TreeNode<T> node, string indent = "", bool last = true)
@@ -32,15 +32,15 @@ namespace prjTreeExample
             }
             return null;
         }
-        public void PrintTree(TreeNode<T> node, TreeNode<T> highlightNode, string indent = "", bool last = true)
+        public void PrintTree(TreeNode<T> node, TreeNode<T> highlightNode, string indent="", bool last = true)
         {
-            if (node == null) return;
+            if(node == null) return;
             if (node.Equals(highlightNode))
-                Console.WriteLine($"{indent} +- [{node.Data}]");
+                    Console.WriteLine($"{indent} +- [{node.Data}]");
             else
                 Console.WriteLine($"{indent} +- {node.Data}");
             indent += last ? "   " : "|  ";
-            for (int i = 0; i < node.Children.Count; i++)
+            for(int i = 0;i< node.Children.Count; i++)
             {
                 PrintTree(node.Children[i], highlightNode, indent, i == node.Children.Count - 1);
             }

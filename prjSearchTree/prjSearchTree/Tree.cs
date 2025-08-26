@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace prjTreeExample
+namespace prjSearchTree
 {
-    public class Tree<T>
+    class Tree<T>
     {
         public TreeNode<T> Root { get; set; }
         public void PrintTree(TreeNode<T> node, string indent = "", bool last = true)
@@ -44,6 +44,49 @@ namespace prjTreeExample
             {
                 PrintTree(node.Children[i], highlightNode, indent, i == node.Children.Count - 1);
             }
+        }
+        // Breadth-First Search (BFS) implementation
+        public List<T> BreadthFirstSearch()
+        {
+            if (Root == null)
+            {
+                return new List<T>();
+            }
+            var visited = new List<T>();
+            var queue = new Queue<TreeNode<T>>();
+            queue.Enqueue(Root);
+            while (queue.Count > 0)
+            {
+                TreeNode<T> currentNode = queue.Dequeue();
+                visited.Add(currentNode.Data);
+                foreach (var child in currentNode.Children)
+                {
+                    queue.Enqueue(child);
+                }
+            }
+            return visited;
+        }
+        // Depth-First Search (DFS) implementation
+        public void DFSHelper(TreeNode<T> node, List<T> visited)
+        {
+            if (node == null) return;
+            visited.Add(node.Data);
+            foreach (var child in node.Children)
+            {
+                DFSHelper(child, visited);
+            }
+        }
+
+        // Helper method to initiate DFS
+        public List<T> DepthFirstSearch()
+        {
+            if (Root == null)
+            {
+                return new List<T>();
+            }
+            var visited = new List<T>();
+            DFSHelper(Root, visited);
+            return visited;
         }
     }
 }
